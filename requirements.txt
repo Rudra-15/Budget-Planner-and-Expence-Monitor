@@ -1,0 +1,6 @@
+pandas
+matplotlib
+pyqt5
+
+To install the above mentioned requirements run the following command
+  - pip install -r requirements.txt
